@@ -1,0 +1,12 @@
+{
+  "amazonRegion": "japan",
+  "highlightsFolder": "03_BookShelf",
+  "lastSyncMode": "amazon",
+  "isLoggedIn": true,
+  "syncOnBoot": false,
+  "downloadBookMetadata": true,
+  "lastSyncDate": "2025-06-03T00:03:56.263Z",
+  "fileNameTemplate": "{{title}}-{{author}}",
+  "fileTemplate": "---\ntag: 📚Book\ntype: book\nstatus: unread\nAuthor: {{author}}\nCover: {{imageUrl}}\nPublisher: {{publisher}}\n---\n# {{title}}\n## Metadata\n{% trim %}\n{% if author %}* [[{{author}}]]{% endif %}\n{% if imageUrl %}![image|150]({{imageUrl}}){% endif %}\n{% if asin %}* ASIN: {{asin}}{% endif %}\n{% if isbn %}* ISBN: {{isbn}}{% endif %}\n{% if pages %}* Pages: {{pages}}{% endif %}\n{% if publication %}* Publication: {{publication}}{% endif %}\n{% if publisher %}* Publisher: {{publisher}}{% endif %}\n{% if url %}* Reference: {{url}}{% endif %}\n{% if appLink %}* [Kindle link]({{appLink}}){% endif %}\n{% endtrim %}\n\n## 要約\n\n## 読書メモ\n\n## Highlights\n{{highlights}}",
+  "highlightTemplate": ">[!quote]\n>{{ text }} — location: [{{ location }}]({{ appLink }})\n{% if note %}>>[!note]\n>{{note}}{% endif %}\n\n---\n"
+}

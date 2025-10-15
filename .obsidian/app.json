@@ -1,0 +1,14 @@
+{
+  "vimMode": true,
+  "promptDelete": false,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "tabSize": 2,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "_assets",
+  "showInlineTitle": true,
+  "propertiesInDocument": "visible"
+}

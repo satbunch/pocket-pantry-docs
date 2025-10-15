@@ -1,0 +1,13 @@
+{
+  "accentColor": "#689545",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "hide-properties"
+  ],
+  "baseFontSizeAction": false,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "nativeMenus": false
+}

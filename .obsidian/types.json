@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "English": "checkbox",
+    "WorkOut": "checkbox",
+    "Cleaning": "checkbox",
+    "": "checkbox",
+    "week_start": "date",
+    "week_end": "date"
+  }
+}

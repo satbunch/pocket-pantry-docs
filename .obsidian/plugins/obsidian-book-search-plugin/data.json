@@ -1,0 +1,20 @@
+{
+  "folder": "Notes",
+  "fileNameFormat": "📘{{title}} - {{author}}",
+  "frontmatter": "",
+  "content": "",
+  "useDefaultFrontmatter": true,
+  "defaultFrontmatterKeyType": "Camel Case",
+  "templateFile": "Template/SearchBook.md",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "ja",
+  "apiKey": "",
+  "openPageOnCompletion": true,
+  "showCoverImageInSearch": false,
+  "enableCoverImageSave": false,
+  "enableCoverImageEdgeCurl": true,
+  "coverImagePath": "",
+  "askForLocale": true
+}

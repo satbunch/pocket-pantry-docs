@@ -1,0 +1,14 @@
+/* Title at top of the document */
+.markdown-preview-section .title {
+  top: 60px;
+  position: absolute;
+  font-size: 26pt !important;
+  font-weight: bolder;
+  letter-spacing: 8px;
+}
+
+/* Title color繧偵い繧ｯ繧ｻ繝ｳ繝医き繝ｩ繝ｼ縺ｫ螟画峩 */
+.title {
+  color: var(--ax1); 
+
+}
