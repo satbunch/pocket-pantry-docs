@@ -92,8 +92,8 @@
               "type": "com.maxymillion.zen",
               "state": {},
               "pinned": true,
-              "icon": "eye",
-              "title": "Zen"
+              "icon": "lucide-ghost",
+              "title": "com.maxymillion.zen"
             }
           }
         ]
@@ -179,8 +179,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -197,14 +197,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-memos:Thino": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
-      "homepage:Open homepage": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "bases:Create new base": false
     }
   },
   "active": "e7a7b303c61786dc",
