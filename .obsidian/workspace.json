@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_API仕様書.md",
+                "file": "00_要件定義.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01_API仕様書"
+              "title": "00_要件定義"
             }
           }
         ]
@@ -95,6 +95,18 @@
               "icon": "lucide-ghost",
               "title": "com.maxymillion.zen"
             }
+          },
+          {
+            "id": "2138c1894e81c27c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "com.maxymillion.zen",
+              "state": {},
+              "pinned": true,
+              "icon": "eye",
+              "title": "Zen"
+            }
           }
         ]
       }
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_API仕様書.md",
+                "file": "00_要件定義.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01_API仕様書"
+              "title": "Backlinks for 00_要件定義"
             }
           },
           {
@@ -197,18 +209,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-memos:Thino": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01_API仕様書.md",
+    "02_テーブル定義書.md",
     "00_要件定義.md",
     "30_食材登録フロー図.md",
     "20_画面遷移図.md",
     "10_ER図.md",
     "91_スケジュール管理.md",
-    "90_プロジェクト進捗.md",
-    "02_テーブル定義書.md",
-    "01_API仕様書.md"
+    "90_プロジェクト進捗.md"
   ]
 }
