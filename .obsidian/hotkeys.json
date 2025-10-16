@@ -52,5 +52,14 @@
       ],
       "key": "L"
     }
+  ],
+  "editor:insert-link": [
+    {
+      "modifiers": [
+        "Meta",
+        "Shift"
+      ],
+      "key": "K"
+    }
   ]
 }
