@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_画面遷移図.md",
+                "file": "20_画面定義/21_画面定義.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20_画面遷移図"
+              "title": "21_画面定義"
             }
           }
         ]
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_画面遷移図.md",
+                "file": "20_画面定義/21_画面定義.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 20_画面遷移図"
+              "title": "Backlinks for 21_画面定義"
             }
           },
           {
@@ -221,13 +221,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Template/DefaultNote.md",
+    "20_画面定義/21_画面定義.md",
+    "20_画面定義/20_画面遷移図.md",
+    "Template",
+    "20_画面定義/21_画面定義.md",
     "00_要件定義.md",
+    "20_画面定義",
     "01_API仕様書.md",
-    "02_テーブル定義書.md",
-    "30_食材登録フロー図.md",
-    "20_画面遷移図.md",
     "10_ER図.md",
+    "30_食材登録フロー図.md",
+    "90_プロジェクト進捗.md",
     "91_スケジュール管理.md",
-    "90_プロジェクト進捗.md"
+    "02_テーブル定義書.md"
   ]
 }
