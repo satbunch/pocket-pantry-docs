@@ -11,10 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02_テーブル定義書.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "02_テーブル定義書"
             }
           }
         ]
@@ -102,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_テーブル定義書.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 02_テーブル定義書"
             }
           },
           {
@@ -194,8 +209,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "90_プロジェクト進捗.md",
     "00_要件定義.md",
+    "90_プロジェクト進捗.md",
     "20_画面定義/21_画面定義.md",
     "20_画面定義/20_画面遷移図.md",
     "91_スケジュール管理.md",
