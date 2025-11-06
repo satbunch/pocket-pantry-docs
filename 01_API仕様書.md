@@ -1,7 +1,7 @@
 ---
 tags:
 created: 2025-08-05 11:08
-updated: 2025-11-02 14:39
+updated: 2025-11-03 13:43
 ---
 # PocketPantry API仕様書（MVP版）
 
